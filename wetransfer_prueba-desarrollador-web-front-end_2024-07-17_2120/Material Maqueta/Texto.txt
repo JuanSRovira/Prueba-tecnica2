@@ -1,0 +1,35 @@
+Inicio
+Productos
+Clientes
+Escenarios
+Soporte
+Compañía
+
+1 Computadora
+30 Usuarios
+1,000 Posibilidades
+
+
+¿Qué es vCloudPoint?
+
+Es una red de terminales que permite a múltiples usuarios el aprovechamiento efectivo y simultáneo de los recursos no explotados de una PC
+
+
+Cliente Cero V1
+Dispositivo de Hardware de vCloudPoint
+
+El Cliente Cero de vCloudPoint no contiene partes móviles y centraliza todo el procesamiento y almacenamiento en una computadora central. Como resultado, no requiere instalación de controladores, administración de parches ni licencias o cuotas de sistemas operativos locales. Este dispositivo consume muy poca energía, es resistente a la manipulación, y es incapaz de almacenar ninguna información de manera local, proveyendo una terminal más segura.
+
+
+vMatrix Server Manager
+Software de administración de vCloudPoint
+
+El software vMatrix Server Manager, ejecutado en el servidor, mejora la funcionalidad y usabilidad general del sistema compartido, ofreciendo intermediación de conexión, aceleración gráfica, redireccionamiento de audio y USB, y administración centralizada. Los administradores de IT pueden configurar, monitorear y gestionar los terminales y usuarios con simplicidad del lado del servidor a través de una consola frontal.
+
+Beneficios
+Principales beneficios comparado con el uso de PC tradicionales
+
+70% de ahorro en costos de adquisición
+95% de ahorro en costos de mantenimiento
+90% de ahorro en consumo de energía eléctrica
+90% de ahorro en costos de actualización
